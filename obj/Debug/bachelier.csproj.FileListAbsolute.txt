@@ -1,0 +1,9 @@
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\bachelier\bin\Debug\bachelier.exe.config
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\bachelier\bin\Debug\bachelier.exe
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\bachelier\bin\Debug\bachelier.pdb
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\bachelier\obj\Debug\bachelier.csprojAssemblyReference.cache
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\bachelier\obj\Debug\bachelier.Form1.resources
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\bachelier\obj\Debug\bachelier.Properties.Resources.resources
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\bachelier\obj\Debug\bachelier.csproj.GenerateResource.cache
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\bachelier\obj\Debug\bachelier.exe
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\bachelier\obj\Debug\bachelier.pdb
